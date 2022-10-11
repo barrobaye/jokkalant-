@@ -1,0 +1,207 @@
+
+.freelance{
+    align-items: center;
+    margin: auto;
+    display: flex;
+    width: 314px;
+    justify-content: space-between;
+    align-content: center;
+}
+p {
+    font-weight: bold;
+   font-size: large;
+    margin-bottom: 1rem;
+    font-family: 'Actor';
+    line-height: 45px;
+}
+.circle{
+    margin-right:12px;
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.notice{
+    transform: translate(39px, -2px);
+    background-color:#009EE2;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.nbrprojet{
+    margin: auto;
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+.form{
+    margin: auto;
+    width:700px;
+}
+.myinput{
+    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #009EE2;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #009EE2;
+    border-radius: 10px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.footer{
+    width: auto;
+    height:70px;
+    align-items: center;
+    box-shadow: 0px 0px 10px 2px;
+    margin-top: 49px;
+    justify-content: center;
+}
+.carré{
+    width: 500px;
+    height: 174px;
+    border: 1px solid #009EE2;
+    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-radius: 25px;
+}
+button{
+    color: white;
+    border: none;
+    border-radius: 50px;
+    width: 30%;
+    height: 40px;
+}
+.foot{
+    margin-top:12px;
+    height: 100%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    margin-top: 15px;
+    text-align: center;
+}
+/* step2  step3 & step4*/
+.carro{
+    width: 500px;
+    height: 174px;
+    border: 1px solid #009EE2;
+    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+.carr{
+    align-items: center;
+    margin-top: 20px;
+     margin-left: auto;
+    margin-right: auto;
+    background: rgba(0, 158, 226, 0.1);
+    border-radius: 25px;
+    width: 500px;
+    height: 74px;
+    justify-content: center;
+    display:flex;
+}
+#text {
+    margin-bottom: auto;
+    align-items: flex-end;
+    width: auto;
+    height: 26px;
+    font-size: initial;
+    color: rgba(0, 158, 226, 0.25);
+    margin-top: auto;
+    margin-inline-start: 10px;
+}
+.titre{
+    font-weight: bold;
+    margin-right: 180px;
+    width: auto;
+    margin-top: 35px;
+}
+h4{
+    margin-left: 427px;
+    font-size: 1.3rem;
+    color: black;
+    width: 333px;
+    margin-top: 13px;
+}
+.vector{
+    border-radius: 50px;
+    border: 3px solid #009EE2;
+    margin-left: 40px;
+    background-color:#009EE2;
+
+}
+.msg{
+    margin-bottom: auto;
+    margin-top:auto;
+ margin-right: auto;
+    margin-left:12px;
+    font-size: smaller;
+    color: #009EE2;
+}
+
+/* fin */
+/* Step5 */
+.ms{
+    margin-bottom: auto;
+    margin-top:auto;
+ margin-right: auto;
+    margin-left:12px;
+    font-size: smaller;
+    color: #EB1566;
+}
+.vecto{
+    
+    margin-left: 40px;
+
+}
+.pay{
+    text-align: center;
+   margin: auto;
+    font-size: smaller;
+    color: #009EE2;
+}
+.budget{
+    align-items: center;
+    margin-top: 7px;
+     margin-left: auto;
+    margin-right: auto;
+    background: rgba(0, 158, 226, 0.1);
+    border-radius: 25px;
+    width: 500px;
+    height: 74px;
+    justify-content: center;
+    display:flex;
+}
+.car{
+    align-items: center;
+    margin-top: 33px;
+     margin-left: auto;
+    margin-right: auto;
+   background: rgba(235, 21, 102, 0.1);
+    border-radius: 25px;
+    width: 500px;
+    height: 74px;
+    justify-content: center;
+    display:flex;
+}
+
+
+/* fin */

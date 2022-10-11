@@ -1,0 +1,72 @@
+.uperror{
+    background-image: url("/img/étoile.jpg");
+  }
+  .picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    margin: auto;
+  }
+.downerror{
+  width: auto;
+  margin-top: -56px;
+}
+.erorr{
+    margin: auto;
+    width: 100%;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+#navbar{
+    margin: auto;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90px;
+}
+/* contact  page  */
+.mapouter {
+  margin-top: 32px;
+  justify-content: center;
+  width: auto;
+  display: flex;
+}
+
+#contact{
+  padding: 16px 10px;
+  width:1200px;
+  margin: auto;
+ display: flex;
+ justify-content:space-around;
+ height: 459px;
+}
+.title{
+  color: black;
+}
+#litletitre{
+  font-weight: bold;
+  color: black;
+  font-size: small;
+}
+#infocontact{
+    margin-top: 31px;
+    width: 380px;
+    margin-top: 31px;
+    margin-top: 121px;
+}
+#boton{
+  border-radius: 10%;
+}
+body{
+  overflow-x: hidden;
+}
